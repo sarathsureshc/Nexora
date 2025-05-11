@@ -1,0 +1,14 @@
+# Global
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
+
+# Server
+server/.env
+server/node_modules/
+
+# Client
+client/node_modules/
+client/.env  # In case you add one later
